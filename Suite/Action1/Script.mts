@@ -1,5 +1,5 @@
 ﻿
-if Browser("Le magasin en ligne des").Page("Le magasin en ligne des").WebElement("WebElement").Exist(5)
+if Browser("Le magasin en ligne des").Page("Le magasin en ligne des").WebElement("WebElement").Exist(5) Then
 Browser("Le magasin en ligne des").Page("Le magasin en ligne des").WebElement("WebElement").Click @@ script infofile_;_ZIP::ssf1.xml_;_
 End  IF
 If Browser("Le magasin en ligne des").Page("Le magasin en ligne des").Link("Prix croissant").Exist(5) Then
