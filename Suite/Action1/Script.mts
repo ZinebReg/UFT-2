@@ -7,7 +7,7 @@ If Browser("Le magasin en ligne des").Page("Le magasin en ligne des").Link("Prix
 End If
 
 
-If Browser("Le magasin en ligne des").Page("Le magasin en ligne des_2").Link("CASINO (6)").Exist(5) Then
-	Browser("Le magasin en ligne des").Page("Le magasin en ligne des_2").Link("CASINO (6)").Click
-End If @@ script infofile_;_ZIP::ssf2.xml_;_
+'If Browser("Le magasin en ligne des").Page("Le magasin en ligne des_2").Link("CASINO (6)").Exist(5) Then
+	'Browser("Le magasin en ligne des").Page("Le magasin en ligne des_2").Link("CASINO (6)").Click
+'End If @@ script infofile_;_ZIP::ssf2.xml_;_
  @@ script infofile_;_ZIP::ssf3.xml_;_
